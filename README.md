@@ -68,6 +68,8 @@
 
 # <img src="statistics.png">**My statistics**
 <div>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/1f4bd4ca-34aa-47e6-87f5-5f252405466a.png" style="width:470px" /></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/9bfe72d7-0af1-4be0-9f8e-c57855dd4806.png" style="width:470px" /></a>
+  <p>Coding activity</p>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/1f4bd4ca-34aa-47e6-87f5-5f252405466a.png" style="width:500px" /></a>
+  <p>Languages</p>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/9bfe72d7-0af1-4be0-9f8e-c57855dd4806.png" style="width:500px" /></a>
 </div>
