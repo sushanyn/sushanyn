@@ -4,6 +4,7 @@
         font-weight: 800;
 }
 </style>
+
 <div align="center">
   <img width="100%" src="intro.gif"  />
 </div>
