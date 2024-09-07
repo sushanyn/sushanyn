@@ -68,8 +68,8 @@
 
 # <img src="statistics.png" height="30px">**My statistics**
 <div>
-  <p>Coding activity last 7 days</p>
+  <p><b>Coding activity last 7 days:</b></p>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/075e1f4d-d4f1-4639-80db-b46feaf8b637.png" height="500px"/></a>
-  <p>Languages, which I have used last 7 days</p>
+  <p><b>Languages, which I have used last 7 days:</b></p>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/5fbfed6d-07ab-412e-8826-3da5e1729c72.png" height="500px"/></a>
 </div>
