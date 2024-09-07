@@ -77,6 +77,7 @@
 <div>
   <p><b>Coding activity last 7 days:</b></p>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/075e1f4d-d4f1-4639-80db-b46feaf8b637.png" width="100%"/></a>
+  <img width="100%"src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
   <p><b>Languages, which I have used last 7 days:</b></p>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/5fbfed6d-07ab-412e-8826-3da5e1729c72.png" width="100%"/></a>
 </div>
