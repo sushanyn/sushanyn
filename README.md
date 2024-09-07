@@ -7,7 +7,7 @@
 ## **<img src="info.png" alt="info-icon" height="25" /> About me**
 
 **I'm a beginner programmer from Ukraine** <img src="ukraine.png" height="25px" alt="Ukraine flag" />
-# **<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20" alt="technical" /> My technical skills**
+# **<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" alt="technical" /> My technical skills**
 
 <div align="left">
   <table>
@@ -40,36 +40,34 @@
   </table>
 </div>
 
-# <img src="phone.png" height="25px" alt="phone-icon" /> **Contact me**
+# <img src="phone.png" height="30px" alt="phone-icon" /> **Contact me**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sushanyn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" height="40px" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" height="45px" />
   </a>
   <a href="mailto:sushanyn.volodymyr@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" height="40px" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" height="45px" />
   </a>
   <a href="https://www.instagram.com/sushanyn17" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" height="40px" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" height="45px" />
   </a>
   <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Discord.svg" alt="Discord" height="40px" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Discord.svg" alt="Discord" height="45px" />
   </a>
   <a href="https://www.facebook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" alt="Facebook" height="40px" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" alt="Facebook" height="45px" />
   </a>
   <a href="mailto:sushanyn.volodymyr@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg" alt="Outlook" height="40px" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg" alt="Outlook" height="45px" />
   </a>
   <a href="https://www.snapchat.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Snapchat.svg" alt="Snapchat" height="40px" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Snapchat.svg" alt="Snapchat" height="45px" />
   </a>
 </div>
 
-# <img src="statistics.png">**My statistics**
+# <img src="statistics.png" height="30px">**My statistics**
 <div>
-  <p>Coding activity</p>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/1f4bd4ca-34aa-47e6-87f5-5f252405466a.png" style="width:500px" /></a>
-  <p>Languages</p>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/9bfe72d7-0af1-4be0-9f8e-c57855dd4806.png" style="width:500px" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/e4d3ea2e-2b80-44ed-90f2-f9e92ee35451.png" style="width: 505px;"/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/f979b95d-a540-44fa-a6b7-b6b4fadecda5.png" style="width: 500px;"/></a>
 </div>
