@@ -11,7 +11,9 @@
 ## **<img src="info.png" alt="info-icon" height="25" /> About me**
 
 **I'm a beginner programmer from Ukraine** <img src="ukraine.png" height="25px" alt="Ukraine flag" />
-<div align="right"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="100" height="100" /></div>
+
+<div align="right"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="150px" /></div>
+
 # **<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" alt="technical" /> My technical skills**
 
 <div align="left">
