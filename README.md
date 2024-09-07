@@ -2,7 +2,10 @@
   <img width="100%" src="intro.gif" />
 </div>
 
-# **Hello <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="25" alt="wave" /> , I'm Sushanyn Volodymyr** 
+# **Hello <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="25" alt="wave" /> , I'm Sushanyn Volodymyr**
+
+<div align="center"><img width="25%"src="nice-to-meet-you.gif"/>
+</div>
 
 ## **<img src="info.png" alt="info-icon" height="25" /> About me**
 
