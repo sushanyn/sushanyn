@@ -28,6 +28,9 @@
       <td align="center" width="100px" style="border: 2px solid #0099c0; border-radius: 10px; padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JS logo" /><br/>Javascript
       </td>
+      <td  align="center" width="100px" style="border: 2px solid #0099c0; border-radius: 10px; padding: 10px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/120px-Bootstrap_logo.svg.png" height="35" alt="Bootstrap logo"/><br/>Bootstrap
+      </td>
     </tr>
   </table>
 </div>
