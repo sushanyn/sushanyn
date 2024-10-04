@@ -31,6 +31,12 @@
       <td  align="center" width="100px" style="border: 2px solid #0099c0; border-radius: 10px; padding: 10px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/120px-Bootstrap_logo.svg.png" height="35" alt="Bootstrap logo"/><br/>Bootstrap
       </td>
+      <td  align="center" width="100px" style="border: 2px solid #0099c0; border-radius: 10px; padding: 10px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/182px-Sass_Logo_Color.svg.png" height="35" alt="sass logo"/><br/>Sass
+      </td>
+      <td  align="center" width="100px" style="border: 2px solid #0099c0; border-radius: 10px; padding: 10px;">
+          <img src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" height="35" alt="Bulma logo"/><br/>Bulma
+      </td>
     </tr>
   </table>
 </div>
