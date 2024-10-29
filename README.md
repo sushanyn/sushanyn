@@ -35,7 +35,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/182px-Sass_Logo_Color.svg.png" height="35" alt="sass logo"/><br/>Sass
       </td>
       <td  align="center" width="100px" style="border: 2px solid #0099c0; border-radius: 10px; padding: 10px;">
-          <img src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" height="35" alt="Bulma logo"/><br/>Bulma
+          <img src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/wordpress.svg" height="35" alt="WordPress logo"/><br/>WordPress
       </td>
     </tr>
   </table>
@@ -77,17 +77,14 @@
   <a href="mailto:sushanyn.volodymyr@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg" alt="Outlook" height="45px" />
   </a>
-  <a href="https://www.snapchat.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Snapchat.svg" alt="Snapchat" height="45px" />
-  </a>
 </div>
 
 # <img src="statistics.png" height="30px">**My statistics**
 <div>
-  <p><b>Coding activity last 7 days:</b></p>
+  <p><b>Coding activity last 7 days:(1 day delay)</b></p>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/63bf6b68-68c1-466f-8cd9-f3a367901c43.png" /></a>
   <img width="100%"src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-  <p><b>Languages, which I have used last 7 days:</b></p>
+  <p><b>Languages, which I have used last 7 days:(1 day delay)</b></p>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sushanyn17/14e7d473-c9d7-41d8-848a-07dac468f1d1.png" /></a>
 </div>
 
