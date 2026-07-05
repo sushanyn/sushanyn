@@ -48,6 +48,7 @@ Aspiring software engineer and student focusing on full-stack web development (R
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=flat&logo=figma&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-FF9E2A?style=flat&logoColor=white)
